@@ -1,0 +1,6 @@
+# Kurzlinks (Netlify liest diese Datei automatisch)
+/webshop     https://cardano.gleichbeidir.at/bestellen   301
+/webshop/*   https://cardano.gleichbeidir.at/bestellen   301
+/bestellen   https://cardano.gleichbeidir.at/bestellen   301
+/ios         https://apps.apple.com/at/app/cardano-kebapizza-wien/id6820425257   301
+/android     https://play.google.com/store/apps/details?id=at.cardano.gleichbeidir&hl=de   301
