@@ -1,6 +1,0 @@
-# Alle Suchmaschinen dürfen die Seite lesen
-User-agent: *
-Allow: /
-
-# Nach dem Hochladen die echte Adresse eintragen und # entfernen:
-# Sitemap: https://www.DEINE-DOMAIN.at/sitemap.xml
